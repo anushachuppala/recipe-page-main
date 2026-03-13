@@ -90,6 +90,7 @@ body {
 .prep-time h3 {
   color: rgb(130, 16, 69);
   font-family: "Outfit-VariableFont_wght";
+  margin-left: 10px;
   margin-bottom: 10px;
 }
 
