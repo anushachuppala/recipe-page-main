@@ -63,12 +63,12 @@ body {
 .Recipe-info h1 {
   font-family: "youngSerif-Regular";
   font-size: 40px;
-  margin-left: 80px;
+  margin-left: 20px;
   margin-bottom: 20px;
 }
 
 .Recipe-info p {
-  margin: 20px 20px 20px 70px;
+  margin: 20px 20px 20px 20px;
   font-family: "Outfit-VariableFont_wght";
   font-size: 18px;
   width: 100%;
@@ -83,6 +83,7 @@ body {
   max-height: 50%;
   font-family: "Outfit-VariableFont_wght";
   border-radius: 10px;
+  margin-left: 20px;
   margin-bottom: 30px;
 }
 
@@ -112,7 +113,7 @@ body {
   font-family: "youngSerif-Regular";
   font-size: 40px;
   color: hsl(14, 45%, 36%);
-  margin: 0 0 20px 80px;
+  margin: 0 0 20px 20px;
 }
 
 .ingredients hr {
@@ -140,7 +141,7 @@ body {
   font-family: "youngSerif-Regular";
   font-size: 35px;
   color: hsl(14, 45%, 36%);
-  margin: 15px 0 20px 80px;
+  margin: 15px 0 20px 20px;
 }
 
 .Recipe-steps ol {
@@ -175,7 +176,7 @@ ol li::marker {
   font-family: "youngSerif-Regular";
   font-size: 40px;
   color: hsl(14, 45%, 36%);
-  margin: 15px 0 20px 80px;
+  margin: 15px 0 20px 20px;
 }
 
 .Nutrition-table p {
